@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: shubhamdoc0705/argocd:argo-application
+        image: shubhamdoc0705/argocd:v1
         ports:
         - containerPort: 80
 
